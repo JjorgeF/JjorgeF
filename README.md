@@ -1,4 +1,4 @@
-<h2 align=center>Opa... Me chamo Jorge Felipe e sou estudante de Ciências da Computação 🐱‍💻</h2>
+<h2 align=center>Oopa... Me chamo Jorge Felipe e sou estudante de Ciências da Computação 🐱‍💻</h2>
 
 ##
 
