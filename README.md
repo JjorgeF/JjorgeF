@@ -3,8 +3,8 @@
 ##
 
 <div>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=JjorgeF&show_icons=true&theme=transparent" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JjorgeF&layout=compact&theme=transparent" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=JjorgeF&show_icons=true&theme=transparent" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JjorgeF&layout=compact&theme=transparent" />
 </div>
 
 ##
