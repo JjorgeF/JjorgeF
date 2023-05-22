@@ -2,8 +2,8 @@
 
 ##
 
-![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=JjorgeF&show_icons=true&theme=transparent&align=center)
-[![Gráfico de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JjorgeF&layout=compact&theme=transparent&align=center)](https://github.com/JjorgeF/github-readme-stats)
+![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=JjorgeF&show_icons=true&theme=transparent&align=center&height="100px")
+[![Gráfico de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JjorgeF&layout=compact&theme=transparent&align=center&height="100px")](https://github.com/JjorgeF/github-readme-stats)
 
 ##
 
