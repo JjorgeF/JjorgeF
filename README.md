@@ -2,8 +2,10 @@
 
 ##
 
-![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=JjorgeF&show_icons=true&theme=transparent&align=center&height="100px")
-[![Gráfico de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JjorgeF&layout=compact&theme=transparent&align=center&height="100px")](https://github.com/JjorgeF/github-readme-stats)
+<div>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=JjorgeF&show_icons=true&theme=transparent" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JjorgeF&layout=compact&theme=transparent" />
+</div>
 
 ##
 
