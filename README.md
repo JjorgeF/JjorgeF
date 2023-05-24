@@ -1,6 +1,6 @@
 <h2 align=center>Oopa... Me chamo Jorge Felipe e sou estudante de Ciências da Computação 🐱‍💻</h2>
 
-##
+#
 
 <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=JjorgeF&show_icons=true&theme=transparent" />
