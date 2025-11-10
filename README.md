@@ -23,5 +23,5 @@
 <div align=center>
   <a href = "mailto:jorgefelipe0299@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jorge-felipe-silva-71477a192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://jjorgef.github.io/meuPortifolio/" target="_blank"><img src="https://img.shields.io/badge/-Web_site-%23333?style=for-the-badge&logo=web_site&logoColor=white" target="_blank"></a>
+  <a href="[https://jjorgef.github.io/meuPortifolio/](https://meu-portifolio-ten-phi.vercel.app/)" target="_blank"><img src="https://img.shields.io/badge/-Web_site-%23333?style=for-the-badge&logo=web_site&logoColor=white" target="_blank"></a>
 </div>
