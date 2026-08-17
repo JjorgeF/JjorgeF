@@ -2,6 +2,8 @@
 
 #
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=JjorgeF)](https://github.com/stats-organization/github-stats-extended)
+
 <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=JjorgeF&show_icons=true&theme=transparent" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JjorgeF&layout=compact&theme=transparent" />
