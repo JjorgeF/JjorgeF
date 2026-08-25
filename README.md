@@ -7,7 +7,6 @@
 <p align="center">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
 
 <h3 align="center">Linguagens e ferramentas </h3>
-<p align="center">- - - - - - - - - - </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,kotlin,py,nodejs,react,html,css,vite,mysql,linux,docker,git&perline=8" alt="C++, JavaScript, TypeScript, Kotlin, Python, Node.js, React, HTML, CSS, Vite, MySQL, Linux, Docker e Git">
 </p>
